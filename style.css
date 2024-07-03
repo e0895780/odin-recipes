@@ -1,10 +1,22 @@
+.overall {
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+}
+
 .receipe {
-    background-color: blue;
-    font-size: 32px;
-    font-weight: bold;
+    background-color: black;
+    font-size: 24px;
     color: white;
 }
 
-#lasa {
-    font-size: 24px;
+#title {
+    font-weight: bolder;
+    border: 1px solid black;
+    padding: 20px;
+    width: 400;
+    text-align: center;
+    color: white;
+    background-color: green;
+    margin: 40px;
 }
